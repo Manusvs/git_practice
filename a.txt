@@ -2,5 +2,16 @@ This is A
 ok
 New line added to a.txt
 change 1
+<<<<<<< Updated upstream
 temp change
 ciao
+=======
+change 4
+text
+1
+2
+3
+4
+5
+work in progress: alu multiplication
+>>>>>>> Stashed changes
